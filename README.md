@@ -19,7 +19,7 @@ This repository contains sequential Java source code solutions and lab practice 
 
 ---
 
-## 📺 Course & Playlist Info
+## Course & Playlist Info
 
 - **Tutorial Series:** Java Basic Syntax Bangla Tutorial
 - **Instructor / Channel:** Bangla Coding Tutor
@@ -27,7 +27,7 @@ This repository contains sequential Java source code solutions and lab practice 
 
 ---
 
-## 📝 Lecture Breakdown & Topics
+## Lecture Breakdown & Topics
 
 | Lecture # | Folder | Topic Summary | Code Link |
 |:---:|:---|:---|:---:|
