@@ -35,7 +35,7 @@ This repository contains sequential Java source code solutions and lab practice 
 | 02 | [`two`](./two/) | Standard output & escape sequences (`\n`, `\t`) | [Main.java](./two/main/Main.java) |
 | 03 | [`three`](./three/) | Variable declaration & `double` primitive type | [Main.java](./three/main/Main.java) |
 | 04 | [`four`](./four/) | Primitive types (`int`, `float`, `long`, `boolean`, `char`), casting & operations | [Main.java](./four/main/Main.java) |
-| 05 | [`five`](./five/) | `if-else` branching & logical OR (`||`) condition check | [Main.java](./five/main/Main.java) |
+| 05 | [`five`](./five/) | `if-else` branching & logical OR (`\|\|`) condition check | [Main.java](./five/main/Main.java) |
 | 06 | [`six`](./six/) | `else-if` ladder (Age category classifier) | [Main.java](./six/main/Main.java) |
 | 07 | [`seven`](./seven/) | `switch-case` control flow with expressions | [Main.java](./seven/main/Main.java) |
 | 08 | [`eight`](./eight/) | Pre-increment (`++x`) vs Post-increment (`x++`) behavior | [Main.java](./eight/main/Main.java) |
